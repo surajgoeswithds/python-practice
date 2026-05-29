@@ -1,6 +1,6 @@
 # python-practice
 
-Python scripts from my Apna College learning journey.
+Python scripts from my learning journey.
 
 ## What is here
 - File I/O (read, write, CSV, JSON)
